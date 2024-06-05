@@ -5,3 +5,7 @@ body {
 h1 {
     text-align: center;
 }
+
+.video-banner {
+    height: 500px;
+}
