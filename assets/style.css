@@ -2,10 +2,20 @@ body {
     background-color: teal;
 }
 
-h1 {
-    text-align: center;
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
 
-.video-banner {
-    height: 500px;
+li {
+    display: inline;
+    float: left;
 }
+
+a {
+    display: block;
+    padding: 8px;
+    background-color: black;
+}
+
